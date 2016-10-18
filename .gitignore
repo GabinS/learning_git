@@ -1,0 +1,3 @@
+*.class
+!Myclass.class
+# Ce fichier est inutil
